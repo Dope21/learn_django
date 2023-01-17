@@ -10,6 +10,6 @@ Django polls application tutorial from documentation
 - create model for database is like defining a schema
 - it creates database table for us in appropriate way and pattern base on the model we created
 - we can use class model that we create to make query
-- it quite easy to use with [ProgreSQL](https://www.postgresql.org/)
+- it quite easy to use with [PostgreSQL](https://www.postgresql.org/)
 - it come with very flexible admin web page for database management
 - it can easily be use with OOP concept
