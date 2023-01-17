@@ -3,7 +3,7 @@
 Django polls application tutorial from documentation
 [https://docs.djangoproject.com/en/4.1/intro/tutorial01/](https://docs.djangoproject.com/en/4.1/intro/tutorial01/)
 
-## What've learn
+## What I've learn
 - Django using MVT structure
 - urls folder is like route
 - view is like controller
